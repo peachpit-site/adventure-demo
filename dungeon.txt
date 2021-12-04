@@ -1,0 +1,41 @@
+The antechamber
+
+You are in the antechamber of the wizard's house.
+
+To your south is the way back outside, to the west is a large well-furnished room, and to the north is a narrow passage.
+---
+s: The wizard's garden
+w: The wizard's library
+n: A passage in the wizard's house
+---
+
+The wizard's garden
+
+You are in the wizard's garden, a pleasant place filled with blossoms and buzzing with bees.
+
+To your north a door stands ajar
+---
+n: The antechamber
+---
+
+The wizard's library
+
+You are in the wizard's library, a large room filled with books. A roaring fire burns in the grate. To the east a door leads to an antechamber.
+---
+e: The antechamber
+---
+
+A passage in the wizard's house
+
+You are in a passage in the wizard's house, running north-south.
+---
+n: The kitchen
+s: The antechamber
+---
+
+The kitchen
+
+You are in the kitchen of the wizard's house. A large cauldron bubbles on the fire, and an invisible hand turns a roasting-spit. A passage leads off to the south.
+---
+s: A passage in the wizard's house
+---
